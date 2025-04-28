@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://github.com/kacktale/IMG_0826.jpg" />
+</div>
 
 <!--
 **kacktale/kacktale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
