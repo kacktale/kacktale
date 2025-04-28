@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github.com/kacktale/IMG_0826.jpg" />
+  <img src="https://github.com/kacktale/kacktale/IMG_0826.jpg" />
 </div>
 
 <!--
